@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @dohnr
-- 👀 I’m interested in computer science and creating interesting projects.
-- 🌱 I’m currently learning python, javascript, and html.
-- ⚡ Fun fact: I'm in the 99.9th percentile for bullet chess on chess.com.
+chess player and coder
 
 <!---
 dohnr/dohnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
